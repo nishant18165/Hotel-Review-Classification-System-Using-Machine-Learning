@@ -7,6 +7,6 @@ Hotel reviews are of great importance for customers as well as the hotels and wi
 * [NLTK Library](#nltk-library)
 * [Pandas](#pandas)
 
-##Result
+##  Result
 * Got Accuracy of around 80%
 * F1 score [0.82527881 0.79122137]
